@@ -1,0 +1,16 @@
+{
+	"isDistributed": "false",
+	  
+	"gridDetails": {
+		"gridMaster": "g1",
+		"chromeBrowserSlaves": ["c1", "c2"],
+		"ieBrowserSlaves": ["i1", "i2"],
+		"firefoxDriverSlaves": ["f1", "f2"]
+	},
+	
+	"browserExecutables": {
+		"ieBrowserBinary": "ieBinaryPath",
+		"chromeBinaryPath": "chromeBinaryPath"
+	}
+
+}
