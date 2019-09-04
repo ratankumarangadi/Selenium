@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34522" started-at="2019-08-21T10:25:18Z" finished-at="2019-08-21T10:25:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34522" started-at="2019-08-21T10:25:18Z" finished-at="2019-08-21T10:25:53Z">
+      <class name="FirstTest">
+        <test-method status="PASS" signature="igniteDriver(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:FirstTest@a5fe93]" name="igniteDriver" is-config="true" duration-ms="23295" started-at="2019-08-21T15:55:18Z" finished-at="2019-08-21T15:55:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void FirstTest.runTest1()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@13a5bf6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- igniteDriver -->
+        <test-method status="PASS" signature="runTest1()[pri:0, instance:FirstTest@a5fe93]" name="runTest1" duration-ms="4802" started-at="2019-08-21T15:55:42Z" finished-at="2019-08-21T15:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest1 -->
+        <test-method status="PASS" signature="igniteDriver(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:FirstTest@a5fe93]" name="igniteDriver" is-config="true" duration-ms="2236" started-at="2019-08-21T15:55:47Z" finished-at="2019-08-21T15:55:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void FirstTest.runTest2()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@13a5bf6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- igniteDriver -->
+        <test-method status="PASS" signature="runTest2()[pri:0, instance:FirstTest@a5fe93]" name="runTest2" duration-ms="10" started-at="2019-08-21T15:55:49Z" finished-at="2019-08-21T15:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest2 -->
+        <test-method status="PASS" signature="igniteDriver(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:FirstTest@a5fe93]" name="igniteDriver" is-config="true" duration-ms="4131" started-at="2019-08-21T15:55:49Z" finished-at="2019-08-21T15:55:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void FirstTest.runTest3()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@13a5bf6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- igniteDriver -->
+        <test-method status="PASS" signature="runTest3()[pri:0, instance:FirstTest@a5fe93]" name="runTest3" duration-ms="1" started-at="2019-08-21T15:55:53Z" finished-at="2019-08-21T15:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest3 -->
+      </class> <!-- FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
